@@ -51,16 +51,16 @@ yarn start
 
 3. Open your browser and visit http://localhost:3000 to view the gym website.
 
-Technologies Used
+## Technologies Used
 React
 React Router (if used for navigation)
 CSS (or a preprocessor like Sass)
 Any additional libraries or tools
 
-Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
 
