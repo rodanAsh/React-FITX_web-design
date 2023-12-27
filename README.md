@@ -51,26 +51,6 @@ yarn start
 
 3. Open your browser and visit http://localhost:3000 to view the gym website.
 
-Project Structure
-
-|-- src
-|   |-- components
-|   |   |-- Header.js
-|   |   |-- Services.js
-|   |   |-- Classes.js
-|   |   |-- Trainers.js
-|   |   |-- Contact.js
-|   |-- App.js
-|   |-- index.js
-|-- public
-|   |-- index.html
-|-- .gitignore
-|-- package.json
-|-- README.md
-|-- LICENSE
-
-Adjust the structure based on your project's needs.
-
 Technologies Used
 React
 React Router (if used for navigation)
