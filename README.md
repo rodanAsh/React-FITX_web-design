@@ -56,6 +56,7 @@ React
 React Router (if used for navigation)
 CSS (or a preprocessor like Sass)
 Any additional libraries or tools
+
 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
 
